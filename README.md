@@ -1,6 +1,6 @@
-###✨ Hi there, I'm Anna!✨ 
+##✨ Hi there, I'm Anna!✨ 
 
-Welcome to my GitHub and enjoy checking up my recent projects.
+#Welcome to my GitHub and enjoy checking up my recent projects.
 
 - 🔭 I have started my journey with front-end web development not long ago, but love it already.
 - 🌱 I’m currently pursuing an intensive front end web development certificate at edX Skills Bootcamp.
