@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate within interesting projects to gain more experience and grow bigger. 
 - 📫 How to reach me: [Email](mailto:mrs.anna.noga@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have MSc at Cyber Security and Data Governance
-- 💥 Check my [portfolio](https://mrsannanoga.github.io/bootstrap-portfolio/) 
+- ⚡ Fun fact: I am MSc in Cyber Security and Data Governance
+- 💥 Check my [portfolio](https://mrsannanoga.github.io/anna-react-portfolio/) 
 
